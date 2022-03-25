@@ -1,0 +1,11 @@
+body{
+    margin: 10% !important;
+}
+.todo-title{
+    font-weight: bold !important;
+    font-family: cursive !important;
+    font-size: 50px !important;
+    color: #0150ca !important;
+    letter-spacing: 5px !important;
+    margin-bottom: 20px !important;
+}
